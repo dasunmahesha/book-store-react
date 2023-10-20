@@ -1,0 +1,288 @@
+[{
+  "_id": {
+    "$oid": "652fbe103beb993764c77edd"
+  },
+  "title": "The Catcher in the Rye",
+  "author": "J.D. Salinger",
+  "publishdyear": 1951,
+  "deatails": "The novel's protagonist, Holden Caulfield, has become an icon for teenage rebellion and defiance. The book deals with complex issues of identity, belonging, loss, and connection.",
+  "createdAt": {
+    "$date": "2023-10-18T11:14:24.184Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-18T11:14:24.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652fbeb63beb993764c77edf"
+  },
+  "title": "To Kill a Mockingbird",
+  "author": "Harper Lee",
+  "publishdyear": 1960,
+  "deatails": "A classic novel that explores themes of racial injustice and moral growth in the American South.",
+  "createdAt": {
+    "$date": "2023-10-18T11:17:10.711Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-18T11:17:10.711Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652fbf363beb993764c77ee1"
+  },
+  "title": "1984",
+  "author": "George Orwell",
+  "publishdyear": 1949,
+  "deatails": "A dystopian novel that explores totalitarianism and the consequences of government surveillance.",
+  "createdAt": {
+    "$date": "2023-10-18T11:19:18.456Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-18T11:19:18.456Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652fbf583beb993764c77ee3"
+  },
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "publishdyear": 1925,
+  "deatails": "Set during the Roaring Twenties, this novel explores themes of wealth, love, and the American Dream.",
+  "createdAt": {
+    "$date": "2023-10-18T11:19:52.448Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-18T11:19:52.448Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652fbf603beb993764c77ee5"
+  },
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen",
+  "publishdyear": 1813,
+  "deatails": "A classic novel that examines societal expectations, class, and the nature of love.",
+  "createdAt": {
+    "$date": "2023-10-18T11:20:00.812Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-18T11:20:00.812Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652fbf6b3beb993764c77ee7"
+  },
+  "title": "The Hobbit",
+  "author": "J.R.R. Tolkien",
+  "publishdyear": 1937,
+  "deatails": "A fantasy adventure novel that introduces readers to the world of Middle-earth.",
+  "createdAt": {
+    "$date": "2023-10-18T11:20:11.617Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-18T11:20:11.617Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652fbf763beb993764c77ee9"
+  },
+  "title": "Harry Potter and the Sorcerer's Stone",
+  "author": "J.K. Rowling",
+  "publishdyear": 1997,
+  "deatails": "The first book in the beloved Harry Potter series, where a young wizard begins his journey at Hogwarts School of Witchcraft and Wizardry.",
+  "createdAt": {
+    "$date": "2023-10-18T11:20:22.838Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-18T11:20:22.838Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652fbf813beb993764c77eeb"
+  },
+  "title": "Moby-Dick",
+  "author": "Herman Melville",
+  "publishdyear": 1851,
+  "deatails": "A novel about the obsession of Captain Ahab to hunt down the giant white whale, Moby-Dick.",
+  "createdAt": {
+    "$date": "2023-10-18T11:20:33.598Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-18T11:20:33.598Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652fbf8f3beb993764c77eed"
+  },
+  "title": "War and Peace",
+  "author": "Leo Tolstoy",
+  "publishdyear": 1869,
+  "deatails": "An epic novel set during the Napoleonic Wars and depicting Russian society.",
+  "createdAt": {
+    "$date": "2023-10-18T11:20:47.021Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-18T11:20:47.021Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652fbf9a3beb993764c77eef"
+  },
+  "title": "War and Peace",
+  "author": "Leo Tolstoy",
+  "publishdyear": 1869,
+  "deatails": "An epic novel set during the Napoleonic Wars and depicting Russian society.",
+  "createdAt": {
+    "$date": "2023-10-18T11:20:58.749Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-18T11:20:58.749Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652fbfa33beb993764c77ef1"
+  },
+  "title": "Brave New World",
+  "author": "Aldous Huxley",
+  "publishdyear": 1932,
+  "deatails": "A dystopian novel that explores a futuristic, technologically advanced society.",
+  "createdAt": {
+    "$date": "2023-10-18T11:21:07.661Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-18T11:21:07.661Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652fbfaf3beb993764c77ef3"
+  },
+  "title": "Fahrenheit 451",
+  "author": "Ray Bradbury",
+  "publishdyear": 1953,
+  "deatails": "A novel about a future society where books are banned and burned.",
+  "createdAt": {
+    "$date": "2023-10-18T11:21:19.411Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-18T11:21:19.411Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652fbfc63beb993764c77ef5"
+  },
+  "title": "The Shining",
+  "author": "Stephen King",
+  "publishdyear": 1977,
+  "deatails": "A horror novel that explores the supernatural events at the Overlook Hotel.",
+  "createdAt": {
+    "$date": "2023-10-18T11:21:42.982Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-18T11:21:42.982Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652fbfde3beb993764c77ef7"
+  },
+  "title": "The Little Prince",
+  "author": "Antoine de Saint-Exupéry",
+  "publishdyear": 1943,
+  "deatails": "A novella that tells the story of a young prince who travels from planet to planet.",
+  "createdAt": {
+    "$date": "2023-10-18T11:22:06.931Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-18T11:22:06.931Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652fbfe93beb993764c77ef9"
+  },
+  "title": "Frankenstein",
+  "author": "Mary Shelley",
+  "publishdyear": 1818,
+  "deatails": "A novel about the creation of a monster and the consequences of scientific experimentation.",
+  "createdAt": {
+    "$date": "2023-10-18T11:22:17.434Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-18T11:22:17.434Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652fbff33beb993764c77efb"
+  },
+  "title": "The Alchemist",
+  "author": "Paulo Coelho",
+  "publishdyear": 1988,
+  "deatails": "A philosophical novel about a shepherd's journey to find his personal legend.",
+  "createdAt": {
+    "$date": "2023-10-18T11:22:27.339Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-18T11:22:27.339Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652fbffd3beb993764c77efd"
+  },
+  "title": "The Road",
+  "author": "Cormac McCarthy",
+  "publishdyear": 2006,
+  "deatails": "A post-apocalyptic novel that follows a father and son's journey through a desolate landscape.",
+  "createdAt": {
+    "$date": "2023-10-18T11:22:37.605Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-18T11:22:37.605Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652fc0083beb993764c77eff"
+  },
+  "title": "Crime and Punishment",
+  "author": "Fyodor Dostoevsky",
+  "publishdyear": 1866,
+  "deatails": "A psychological novel that explores the moral and psychological dilemmas of the protagonist.",
+  "createdAt": {
+    "$date": "2023-10-18T11:22:48.787Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-18T11:22:48.787Z"
+  },
+  "__v": 0
+}]
